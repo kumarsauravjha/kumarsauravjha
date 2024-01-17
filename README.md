@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kumarsaurav.jha@gwu.edu**
 
-- ⚡ Fun fact **People don't get bored when with me! (usually)**
+<!--- ⚡ Fun fact **People don't get bored when with me! (usually)** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
